@@ -1,0 +1,6 @@
+{
+  "name": "Bütçem - Portföy, Yatırım ve Bütçe Takibi",
+  "description": "iOS uyumlu kişisel finans, tüm döviz ve kıymetli metaller (altın, gümüş, platin, paladyum) portföy yönetimi, bütçe planlama analizi, Face ID kilit, bulut yedekleme ve PDF ekstre sistemi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
